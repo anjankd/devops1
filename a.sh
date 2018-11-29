@@ -1,11 +1,13 @@
+#!/bin/sh
+echo "Hello World"
 
-banadana das
-anjankd
 
-A
-devops2
 
-rgr ndhndhhr
-kakaka
-anjjanjj
-devops engineer
+
+
+
+
+
+
+
+
